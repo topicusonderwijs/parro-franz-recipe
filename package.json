@@ -1,0 +1,13 @@
+{
+  "id": "parro",
+  "name": "Parro",
+  "version": "1.0.0",
+  "description": "Parro",
+  "main": "index.js",
+  "author": "Hielke Hoeve <hielke.hoeve@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/topicusonderwijs/parro-franz-recipe",
+  "config": {
+    "serviceURL": "https://talk.parro.com"
+  }
+}
